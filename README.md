@@ -73,7 +73,7 @@ D = Lilás
 E = Amarelo Claro
 F = Branco Brilhante
 
-#Exemplo:
+## Exemplo:
 ```bash
 @echo off
 color 0a
