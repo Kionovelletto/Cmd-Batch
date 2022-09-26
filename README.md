@@ -13,7 +13,7 @@ Também há a possibilidade de executar scripts em outras linguagens, usando o B
 
 Usando do utilitário CScript para executar scripts em linguagens como JScript e VBS.
 
-# Comandos
+## Comandos
 
 echo – imprime mensagem
 
@@ -53,7 +53,7 @@ time – exibe ou altera a hora do computador
 
 date – exibe ou altera a data do computador
 
-# Abrindo janelas e aplicações
+## Abrindo janelas e aplicações
 
 systeminfo – Informações sobre o Sistema
 
@@ -79,7 +79,7 @@ control color – Cores
 
 control fonts – Fontes
 
-# Tabela de Cores Texto ou Fundo (16 cores)
+## Tabela de Cores Texto ou Fundo (16 cores)
 
 0 = Preto
 
