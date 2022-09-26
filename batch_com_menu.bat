@@ -25,9 +25,8 @@ set /p opcao= Escolha uma opcao:
 if %opcao% equ 1 goto opcao1
 if %opcao% equ 2 goto opcao2
 if %opcao% equ 3 goto opcao3
-if %opcao% equ 4 goto opcao4
-if %opcao% equ 5 goto end
-if %opcao% GEQ 6 goto operror
+if %opcao% equ 4 goto end
+if %opcao% equ 5 goto operror
 
 :opcao1
 cls
