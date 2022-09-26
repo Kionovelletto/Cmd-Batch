@@ -1,7 +1,7 @@
 # CMD & BATCH
 Scripts para execução no sistema operacional Windows
 
-Um arquivo batch é um arquivo texto contendo linhas com comandos que podem ser executados sequencialmente pelo interpretador de comandos do MS-DOS, Windows ou OS/2.[1] São identificados pelas extensões .bat ou .cmd.[2][3]
+Um arquivo batch é um arquivo texto contendo linhas com comandos que podem ser executados sequencialmente pelo interpretador de comandos do MS-DOS, Windows ou OS/2.[1] São identificados pelas extensões .bat ou .cmd.
 
 # História
 
@@ -12,6 +12,8 @@ A versão para Windows contém utilitários e estrutura de código mais avançad
 Também há a possibilidade de executar scripts em outras linguagens, usando o Batch como um intermediário para executa-lo pelo Prompt.
 
 Usando do utilitário CScript para executar scripts em linguagens como JScript e VBS.
+
+Fonte $https://pt.wikipedia.org/wiki/Batch#:~:text=5%20Refer%C3%AAncias-,Hist%C3%B3ria,interpretado%20pelo%20Prompt%20de%20comando.
 
 ## Comandos
 ```batch
