@@ -1,9 +1,9 @@
 # CMD & BATCH
-Scripts para execução no sistema operacional Windows
+#Scripts para execução no sistema operacional Windows
 
 Um arquivo batch é um arquivo texto contendo linhas com comandos que podem ser executados sequencialmente pelo interpretador de comandos do MS-DOS, Windows ou OS/2.[1] São identificados pelas extensões .bat ou .cmd.[2][3]
 
-História
+# História
 
 Batch foi inicialmente criado para o MS-DOS, onde o COMMAND.COM era o interpretador dos comandos Batch.
 
@@ -13,7 +13,7 @@ Também há a possibilidade de executar scripts em outras linguagens, usando o B
 
 Usando do utilitário CScript para executar scripts em linguagens como JScript e VBS.
 
-Comandos
+# Comandos
 
 echo – imprime mensagem
 
@@ -53,7 +53,7 @@ time – exibe ou altera a hora do computador
 
 date – exibe ou altera a data do computador
 
-Novas janelas
+#Abrindo janelas e aplicações
 systeminfo – Informações sobre o Sistema
 
 calc – Calculadora
@@ -85,7 +85,8 @@ control – Painel de Controle
 control mouse – Mouse
 control color – Cores
 control fonts – Fontes
-Tabela de Cores Texto ou Fundo (16 cores)
+
+# Tabela de Cores Texto ou Fundo (16 cores)
 0 = Preto
 1 = Azul
 2 = Verde
@@ -103,7 +104,7 @@ D = Lilás
 E = Amarelo Claro
 F = Branco Brilhante
 
-Exemplo:
+#Exemplo:
 @echo off
 color 0a
 title Verificador de idades
