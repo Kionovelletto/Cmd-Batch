@@ -83,6 +83,7 @@ control fonts – Fontes
 
 ## Tabela de Cores Texto ou Fundo (16 cores)
 ```bash
+color 0a
 0 = Preto   1 = Azul   2 = Verde   3 = Verde-Água   4 = Vermelho   5 = Roxo   6 = Amarelo   7 = Branco    8 = Cinza   9 = Azul Claro
 
 A = Verde Claro    B = Verde-Água Claro    C = Vermelho Claro    D = Lilás    E = Amarelo Claro    F = Branco Brilhante
