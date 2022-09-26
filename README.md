@@ -1,5 +1,5 @@
 # CMD & BATCH
-#Scripts para execução no sistema operacional Windows
+Scripts para execução no sistema operacional Windows
 
 Um arquivo batch é um arquivo texto contendo linhas com comandos que podem ser executados sequencialmente pelo interpretador de comandos do MS-DOS, Windows ou OS/2.[1] São identificados pelas extensões .bat ou .cmd.[2][3]
 
@@ -16,72 +16,41 @@ Usando do utilitário CScript para executar scripts em linguagens como JScript e
 # Comandos
 
 echo – imprime mensagem
-
 cls – limpa a tela
-
 pause – aguarda pressionamento de tecla exibindo "Pressione qualquer tecla para continuar..."
-
 shutdown – desliga, reinicia, faz logoff ou cancela desligamento
-
 start – executa programa ou script
-
 cd – muda de diretório
-
 md – cria diretórios
-
 rd – remove diretórios
-
 del – deleta arquivo
-
 ren ou rename – renomeia arquivos
-
 move – move arquivo
-
 copy – copia arquivo
-
 type – mostra conteúdo de arquivo de texto
-
 exist – checa se arquivo ou diretório existe
-
 tskill – encerra processo
-
 color – altera cor de texto ou fundo
-
 title – muda o título da janela
-
 time – exibe ou altera a hora do computador
-
 date – exibe ou altera a data do computador
 
 #Abrindo janelas e aplicações
+
 systeminfo – Informações sobre o Sistema
-
 calc – Calculadora
-
 notepad – Bloco de Notas
-
 mspaint ou pbrush – Paint
-
 wordpad ou write — WordPad
-
 iexplore – Internet Explorer
-
 chrome – Google Chrome
-
 firefox – Mozilla Firefox
-
 explorer – Windows Explorer
-
 wmplayer – Windows Media Player
-
 winword – Microsoft Word
-
 powerpnt – Microsoft PowerPoint
-
 excel – Microsoft Excel
-
 control – Painel de Controle
-
 control mouse – Mouse
 control color – Cores
 control fonts – Fontes
@@ -105,6 +74,7 @@ E = Amarelo Claro
 F = Branco Brilhante
 
 #Exemplo:
+```bash
 @echo off
 color 0a
 title Verificador de idades
@@ -120,3 +90,4 @@ if %i% gtr 17 (
 )
 pause > nul
 exit
+```
