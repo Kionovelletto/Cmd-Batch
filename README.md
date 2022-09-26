@@ -14,7 +14,7 @@ Também há a possibilidade de executar scripts em outras linguagens, usando o B
 Usando do utilitário CScript para executar scripts em linguagens como JScript e VBS.
 
 ## Comandos
-
+```bash
 echo – imprime mensagem
 
 cls – limpa a tela
@@ -52,7 +52,7 @@ title – muda o título da janela
 time – exibe ou altera a hora do computador
 
 date – exibe ou altera a data do computador
-
+```
 ## Abrindo janelas e aplicações
 
 systeminfo – Informações sobre o Sistema
