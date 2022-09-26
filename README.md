@@ -14,7 +14,7 @@ Também há a possibilidade de executar scripts em outras linguagens, usando o B
 Usando do utilitário CScript para executar scripts em linguagens como JScript e VBS.
 
 ## Comandos
-```bash
+```batch
 echo – imprime mensagem
 
 cls – limpa a tela
@@ -55,7 +55,7 @@ date – exibe ou altera a data do computador
 ```
 ## Abrindo janelas e aplicações
 
-```bash
+```batch
 systeminfo – Informações sobre o Sistema
 
 calc – Calculadora
@@ -82,7 +82,7 @@ control fonts – Fontes
 ```
 
 ## Tabela de Cores Texto ou Fundo (16 cores)
-```javascript
+```java
 Sintaxe: color 0a
 
 0 = Preto   1 = Azul   2 = Verde   3 = Verde-Água   4 = Vermelho   5 = Roxo   6 = Amarelo   7 = Branco    8 = Cinza   9 = Azul Claro
