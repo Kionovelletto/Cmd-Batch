@@ -79,9 +79,10 @@ control mouse – Mouse
 control color – Cores
 
 control fonts – Fontes
+```
 
 ## Tabela de Cores Texto ou Fundo (16 cores)
-
+```bash
 0 = Preto
 
 1 = Azul
