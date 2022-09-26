@@ -16,7 +16,9 @@ Usando do utilitário CScript para executar scripts em linguagens como JScript e
 # Comandos
 
 echo – imprime mensagem
+
 cls – limpa a tela
+
 pause – aguarda pressionamento de tecla exibindo "Pressione qualquer tecla para continuar..."
 shutdown – desliga, reinicia, faz logoff ou cancela desligamento
 start – executa programa ou script
