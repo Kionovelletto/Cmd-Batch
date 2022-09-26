@@ -54,6 +54,7 @@ time – exibe ou altera a hora do computador
 date – exibe ou altera a data do computador
 ```
 ## Abrindo janelas e aplicações
+
 ```bash
 systeminfo – Informações sobre o Sistema
 
