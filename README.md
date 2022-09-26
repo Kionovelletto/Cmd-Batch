@@ -90,7 +90,7 @@ Sintaxe: color 0a
 A = Verde Claro    B = Verde-Água Claro    C = Vermelho Claro    D = Lilás    E = Amarelo Claro    F = Branco Brilhante
 ```
 ## Exemplo geral:
-```bash
+```batch
 @echo off
 color 0a
 title Verificador de idades
