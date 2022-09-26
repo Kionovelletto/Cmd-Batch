@@ -11,7 +11,7 @@ A versão para Windows contém utilitários e estrutura de código mais avançad
 
 Também há a possibilidade de executar scripts em outras linguagens, usando o Batch como um intermediário para executa-lo pelo Prompt.
 
-Usando do utilitário CScript para executar scripts em linguagens como JScript e VBS. [Fonte](https://pt.wikipedia.org/wiki/Batch#:~:text=5%20Refer%C3%AAncias-,Hist%C3%B3ria,interpretado%20pelo%20Prompt%20de%20comando).)
+Usando do utilitário CScript para executar scripts em linguagens como JScript e VBS. [Fonte](https://pt.wikipedia.org/wiki/Batch#:~:text=5%20Refer%C3%AAncias-,Hist%C3%B3ria,interpretado%20pelo%20Prompt%20de%20comando).
 
 
 ## Comandos
