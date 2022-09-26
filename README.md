@@ -20,59 +20,97 @@ echo – imprime mensagem
 cls – limpa a tela
 
 pause – aguarda pressionamento de tecla exibindo "Pressione qualquer tecla para continuar..."
+
 shutdown – desliga, reinicia, faz logoff ou cancela desligamento
+
 start – executa programa ou script
+
 cd – muda de diretório
+
 md – cria diretórios
+
 rd – remove diretórios
+
 del – deleta arquivo
+
 ren ou rename – renomeia arquivos
+
 move – move arquivo
+
 copy – copia arquivo
+
 type – mostra conteúdo de arquivo de texto
+
 exist – checa se arquivo ou diretório existe
+
 tskill – encerra processo
+
 color – altera cor de texto ou fundo
+
 title – muda o título da janela
+
 time – exibe ou altera a hora do computador
+
 date – exibe ou altera a data do computador
 
 #Abrindo janelas e aplicações
 
 systeminfo – Informações sobre o Sistema
+
 calc – Calculadora
+
 notepad – Bloco de Notas
+
 mspaint ou pbrush – Paint
+
 wordpad ou write — WordPad
+
 iexplore – Internet Explorer
+
 chrome – Google Chrome
-firefox – Mozilla Firefox
-explorer – Windows Explorer
-wmplayer – Windows Media Player
+
 winword – Microsoft Word
-powerpnt – Microsoft PowerPoint
-excel – Microsoft Excel
+
 control – Painel de Controle
+
 control mouse – Mouse
+
 control color – Cores
+
 control fonts – Fontes
 
 # Tabela de Cores Texto ou Fundo (16 cores)
+
 0 = Preto
+
 1 = Azul
+
 2 = Verde
+
 3 = Verde-Água
+
 4 = Vermelho
+
 5 = Roxo
+
 6 = Amarelo
+
 7 = Branco
+
 8 = Cinza
+
 9 = Azul Claro
+
 A = Verde Claro
+
 B = Verde-Água Claro
+
 C = Vermelho Claro
+
 D = Lilás
+
 E = Amarelo Claro
+
 F = Branco Brilhante
 
 ## Exemplo:
