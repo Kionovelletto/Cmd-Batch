@@ -53,7 +53,7 @@ time – exibe ou altera a hora do computador
 
 date – exibe ou altera a data do computador
 
-#Abrindo janelas e aplicações
+# Abrindo janelas e aplicações
 
 systeminfo – Informações sobre o Sistema
 
