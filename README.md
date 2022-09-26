@@ -55,7 +55,7 @@ date – exibe ou altera a data do computador
 ```
 ## Abrindo janelas e aplicações
 
-```batch
+```bash
 systeminfo – Informações sobre o Sistema
 
 calc – Calculadora
